@@ -1,0 +1,14 @@
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\bin\Debug\net8.0\KreatorPostaci.exe
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\bin\Debug\net8.0\KreatorPostaci.deps.json
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\bin\Debug\net8.0\KreatorPostaci.runtimeconfig.json
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\bin\Debug\net8.0\KreatorPostaci.dll
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\bin\Debug\net8.0\KreatorPostaci.pdb
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.AssemblyInfoInputs.cache
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.AssemblyInfo.cs
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.csproj.CoreCompileInputs.cache
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.dll
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\refint\KreatorPostaci.dll
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.pdb
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\KreatorPostaci.genruntimeconfig.cache
+C:\Users\mm88\source\repos\KreatorPostaci\KreatorPostaci\obj\Debug\net8.0\ref\KreatorPostaci.dll
