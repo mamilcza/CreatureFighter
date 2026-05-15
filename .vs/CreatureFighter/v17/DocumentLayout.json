@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\iclickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\iclickable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\game\\game.run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\game\\game.run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\game\\game.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\game\\game.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\actors\\adventurer.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\actors\\adventurer.methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\actors\\adventurer.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\actors\\adventurer.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\ui\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\ui\\consoleinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\iinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\idisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\actors\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\actors\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\actors\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\actors\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\icreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\icreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\iinventoryholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\iinventoryholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\inamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\inamed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\italkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\italkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\interfaces\\iworldobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\interfaces\\iworldobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\ui\\consoledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\ui\\consoledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|c:\\users\\mm88\\source\\repos\\creaturefighter\\creaturefighter\\models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A41E9A-0003-2ACD-EB7D-D304D8437F88}|CreatureFighter\\CreatureFighter.csproj|solutionrelative:creaturefighter\\models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Adventurer.Core.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Adventurer.Core.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Actors\\Adventurer.Core.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Adventurer.Core.cs",
+              "RelativeToolTip": "CreatureFighter\\Actors\\Adventurer.Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:54:51.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adventurer.Methods.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Adventurer.Methods.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Actors\\Adventurer.Methods.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Adventurer.Methods.cs",
+              "RelativeToolTip": "CreatureFighter\\Actors\\Adventurer.Methods.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:54:49.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IClickable.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IClickable.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\IClickable.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IClickable.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\IClickable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:40:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleInput.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\UI\\ConsoleInput.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\UI\\ConsoleInput.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\UI\\ConsoleInput.cs",
+              "RelativeToolTip": "CreatureFighter\\UI\\ConsoleInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:03:51.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInput.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IInput.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\IInput.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IInput.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\IInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:04:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.Core.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Game\\Game.Core.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Game\\Game.Core.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Game\\Game.Core.cs",
+              "RelativeToolTip": "CreatureFighter\\Game\\Game.Core.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:50:24.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Archer.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Archer.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Actors\\Archer.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Archer.cs",
+              "RelativeToolTip": "CreatureFighter\\Actors\\Archer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:41:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Warrior.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Actors\\Warrior.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Actors\\Warrior.cs",
+              "RelativeToolTip": "CreatureFighter\\Actors\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:41:17.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.Run.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Game\\Game.Run.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Game\\Game.Run.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Game\\Game.Run.cs",
+              "RelativeToolTip": "CreatureFighter\\Game\\Game.Run.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:41:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IDisplay.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\IDisplay.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IDisplay.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\IDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:40:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICreature.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\ICreature.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\ICreature.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\ICreature.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\ICreature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:40:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IInventoryHolder.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IInventoryHolder.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\IInventoryHolder.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IInventoryHolder.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\IInventoryHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:40:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INamed.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\INamed.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\INamed.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\INamed.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\INamed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITalkable.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\ITalkable.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\ITalkable.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\ITalkable.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\ITalkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:41.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWorldObject.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IWorldObject.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Interfaces\\IWorldObject.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Interfaces\\IWorldObject.cs",
+              "RelativeToolTip": "CreatureFighter\\Interfaces\\IWorldObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Chest.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Chest.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Chest.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Chest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:25.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Creature.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Creature.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Creature.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Creature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Item.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:10.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Npc.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Npc.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Npc.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Npc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:39:03.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConsoleDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\UI\\ConsoleDisplay.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\UI\\ConsoleDisplay.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\UI\\ConsoleDisplay.cs",
+              "RelativeToolTip": "CreatureFighter\\UI\\ConsoleDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:38:33.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Rock.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Rock.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Rock.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Rock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:38:30.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Stats.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Stats.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Stats.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:38:24.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Wall.cs",
+              "RelativeDocumentMoniker": "CreatureFighter\\Models\\Wall.cs",
+              "ToolTip": "C:\\Users\\mm88\\source\\repos\\CreatureFighter\\CreatureFighter\\Models\\Wall.cs",
+              "RelativeToolTip": "CreatureFighter\\Models\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:38:11.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
