@@ -28,9 +28,9 @@ namespace CreatureFighter.Actors
             return string.Join("\n", lines);
         }
 
-        public virtual string Say(string message)
+        public override string Say(string message)
         {
-            return $"{Name}: {message}";
+            return $"{Name} rzecze: {message}";
         }
         // ✅ dodawanie itemu
         protected void AddItem(string name)
@@ -47,7 +47,7 @@ namespace CreatureFighter.Actors
         }
         public string CancanDance()
         {
-            return $"{Name} tańczy cancana.";
+            return $"{Name} tańczy kankana.";
         }
 
     }

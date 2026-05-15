@@ -1,42 +1,20 @@
 ﻿using CreatureFighter.Actors;
+using CreatureFighter.Interfaces;
 
 namespace CreatureFighter.Factories
 {
     public static class AdventurerFactory
     {
         //Metoda statyczna
-        public static Adventurer Create()
+
+        public static Adventurer Create(string name, string type)
         {
-            // 🔹 pobranie imienia
-            Console.Write("Podaj imię postaci: ");
-            string name = Console.ReadLine();
-
-            // 🔹 wybór klasy
-            string choice;
-
-            do
+            return type switch
             {
-                Console.WriteLine();
-                Console.WriteLine("Wybierz klasę:");
-                Console.WriteLine("1 - Warrior (lekki wojownik)");
-                Console.WriteLine("2 - Archer (łucznik)");
-
-                choice = Console.ReadLine();
-
-            } while (choice != "1" && choice != "2");
-
-            // 🔹 stworzenie odpowiedniej klasy
-            Adventurer character;
-
-            if (choice == "1")
-            {
-                character = new Warrior(name);
-            }
-            else
-            {
-                character = new Archer(name);
-            }
-            return character;
+                "warrior" => new Warrior(name),
+                "archer" => new Archer(name),
+                _ => throw new ArgumentException("Nieznany wybór")
+            };
         }
     }
 }

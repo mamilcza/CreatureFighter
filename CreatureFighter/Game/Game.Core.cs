@@ -5,14 +5,14 @@ namespace CreatureFighter.Game
     public partial class Game
     {
         //event
-        public event Action<string> OnMessage;
+        public event Action<string>? OnMessage;
         public void SendMessage(string message)
         {
             OnMessage?.Invoke(message);
         }
         public void Run()
         {
-            Run(new ConsoleDisplay());
+            Run(new ConsoleInput(), new ConsoleDisplay());
         }
         //delegate
         public delegate string SpecialTrick();

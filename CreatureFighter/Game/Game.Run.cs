@@ -7,10 +7,11 @@ namespace CreatureFighter.Game
 {
     public partial class Game
     {
-        public void Run(IDisplay display)
+        public void Run(IInput input, IDisplay display)
         {
             SendMessage("Start gry");
-            Adventurer hero = AdventurerFactory.Create();
+            var (name, type) = GetPlayerData(input);
+            Adventurer hero = AdventurerFactory.Create(name, type.ToLower());
             Npc andrzej = new Npc("Andrzej");
             List<IClickable> worldEntities = new List<IClickable>();
             worldEntities.Add(hero);

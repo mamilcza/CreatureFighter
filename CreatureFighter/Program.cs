@@ -7,10 +7,11 @@ class Program
     static void Main()
     {
         var display = new ConsoleDisplay();
+        var input = new ConsoleInput();
         var consoleGame = new Game();
 
         consoleGame.OnMessage += display.Display;
 
-        consoleGame.Run(display);
+        consoleGame.Run(input, display);
     }
 }

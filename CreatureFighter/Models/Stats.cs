@@ -26,13 +26,13 @@
         public int Strength
         {
             get => strength;
-            private set => strength = Math.Clamp(value, 1, 10);
+            private set => strength = Math.Clamp(value, 0, 10);
         }
 
         public int Dexterity
         {
             get => dexterity;
-            private set => dexterity = Math.Clamp(value, 1, 10);
+            private set => dexterity = Math.Clamp(value, 0, 10);
         }
 
 
@@ -75,7 +75,7 @@
 
         private static int Roll()
         {
-            return random.Next(1, 11);
+            return random.Next(3, 8);
         }
 
         public override string ToString()

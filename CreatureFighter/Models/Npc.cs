@@ -9,7 +9,8 @@
         }
         public override string OnRightClick()
         {
-            return Say($"Witaj! Mam na imię {Name}");
+            return Say($"Witaj! Mam na imię {Name}." +
+                $"");
         }
 
 

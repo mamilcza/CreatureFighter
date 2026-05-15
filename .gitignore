@@ -1,0 +1,39 @@
+## --- Visual Studio ---
+# Pliki użytkownika i pamięć podręczna środowiska
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Katalogi wyjściowe kompilacji (Build)
+[Bb]in/
+[Oo]bj/
+[Xx]64/
+[Xx]86/
+[Aa]rm/
+[Aa]rm64/
+Generated_Files/
+
+# Narzędzia diagnostyczne i testowe
+TestResults/
+*.trx
+*.vcmd
+*.DotSettings.user
+
+## --- Narzędzia i pakiety ---
+# Pakiety NuGet
+packages/
+!.anchor
+*.nupkg
+
+# Logi i pliki tymczasowe
+*.log
+*.tmp
+*.bak
+*.cache
+
+## --- System (Windows) ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini

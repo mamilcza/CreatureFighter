@@ -18,5 +18,10 @@ namespace CreatureFighter.Actors
             AddItem("Krótki Łuk");
             AddItem("Płaszcz z kapturem"); // przeszywanica
         }
+        public override string Say(string message)
+        {
+            return $"{Name} szepcze: {message}";
+        }
+
     }
 }

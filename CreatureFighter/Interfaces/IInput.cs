@@ -1,6 +1,6 @@
 ﻿namespace CreatureFighter.Interfaces
 {
-    internal interface IInput
+    public interface IInput
     {
         string GetInput(string prompt);
     }
