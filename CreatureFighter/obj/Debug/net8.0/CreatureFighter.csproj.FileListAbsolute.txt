@@ -26,3 +26,4 @@ C:\Users\mm88\source\repos\CreatureFighter\CreatureFighter\obj\Debug\net8.0\refi
 C:\Users\mm88\source\repos\CreatureFighter\CreatureFighter\obj\Debug\net8.0\CreatureFighter.pdb
 C:\Users\mm88\source\repos\CreatureFighter\CreatureFighter\obj\Debug\net8.0\CreatureFighter.genruntimeconfig.cache
 C:\Users\mm88\source\repos\CreatureFighter\CreatureFighter\obj\Debug\net8.0\ref\CreatureFighter.dll
+C:\Users\mm88\source\repos\CreatureFighter\CreatureFighter\obj\Debug\net8.0\CreatureFighter.sourcelink.json

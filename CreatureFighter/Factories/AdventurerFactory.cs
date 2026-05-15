@@ -1,4 +1,4 @@
-﻿using CreatureFighter.Models;
+﻿using CreatureFighter.Actors;
 
 namespace CreatureFighter.Factories
 {

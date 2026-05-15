@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+﻿using CreatureFighter.Models;
 
-namespace CreatureFighter.Models
+namespace CreatureFighter.Actors
 {
     public class Archer : Adventurer
     {

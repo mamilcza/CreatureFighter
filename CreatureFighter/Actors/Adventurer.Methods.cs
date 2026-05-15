@@ -1,28 +1,13 @@
 ﻿using CreatureFighter.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CreatureFighter.Models;
 
-namespace CreatureFighter.Models
+namespace CreatureFighter.Actors
 {
-    public abstract class Adventurer : Creature, IInventoryHolder
+    public abstract partial class Adventurer : Creature, IInventoryHolder
     {
-        public virtual string BattleCry { get; set; }
-        protected Stats Stats { get; private set; }
-        public List<Item> Inventory { get; set; } = new List<Item>();
-
-        protected Adventurer(string name) : base(name)
-        {
-            this.Name = name;
-            this.Stats = new Stats();
-            Console.WriteLine("Base Stats:");
-            Console.WriteLine(Stats.ToString());
-        }
         public override string OnLeftClick()
         {
-            return $"Statsy {Name} - {this.GetType().Name} [{Stats.ToString()}]\n"
+            return $"Statsy {Name} - {GetType().Name} [{Stats.ToString()}]\n"
                 + Say(BattleCry);
         }
         public override string OnRightClick()
@@ -43,7 +28,6 @@ namespace CreatureFighter.Models
             return string.Join("\n", lines);
         }
 
-
         public virtual string Say(string message)
         {
             return $"{Name}: {message}";
@@ -53,5 +37,18 @@ namespace CreatureFighter.Models
         {
             Inventory.Add(new Item(name));
         }
+        public string MusclePose()
+        {
+            return $"{Name} pokazuje muskuły.";
+        }
+        public string PotionJuggle()
+        {
+            return $"{Name} żongluje miksturami.";
+        }
+        public string CancanDance()
+        {
+            return $"{Name} tańczy cancana.";
+        }
+
     }
 }
