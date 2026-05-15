@@ -1,4 +1,4 @@
-## --- Visual Studio ---
+## --- Visual Studio & .NET ---
 # Pliki użytkownika i pamięć podręczna środowiska
 .vs/
 *.suo
@@ -21,11 +21,29 @@ TestResults/
 *.vcmd
 *.DotSettings.user
 
+## --- Specyficzne pliki C# / .NET ---
+# Pliki konfiguracji lokalnej i sekrety (nie wrzucaj haseł do Gita)
+appsettings.Development.json
+secrets.json
+
+# Pliki publikacji (Publish)
+*.publish.xml
+pub/
+out/
+
+# Narzędzia .NET i pliki profilowania
+.dotnet/
+*.chromestatus
+*.coverage
+*.coveragexml
+
 ## --- Narzędzia i pakiety ---
 # Pakiety NuGet
 packages/
 !.anchor
 *.nupkg
+project.lock.json
+project.fragment.lock.json
 
 # Logi i pliki tymczasowe
 *.log
