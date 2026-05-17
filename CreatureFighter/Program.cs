@@ -12,6 +12,7 @@ class Program
 
         consoleGame.OnMessage += display.Display;
 
-        consoleGame.Run(input, display);
+        do consoleGame.Run(input, display);
+        while (true);
     }
 }
