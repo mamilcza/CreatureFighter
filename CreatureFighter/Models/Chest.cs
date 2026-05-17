@@ -6,6 +6,8 @@ namespace CreatureFighter.Models
     {
         public string Name { get; }
         public List<Item> Inventory { get; } = new List<Item>();
+
+        public Item this[int i] => Inventory[i];    //indeksator
         public string Interaction { get; } = "Otwierasz i patrzysz do środka.";
         public Chest(string name)
         {

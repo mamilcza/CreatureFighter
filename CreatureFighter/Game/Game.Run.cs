@@ -7,7 +7,7 @@ namespace CreatureFighter.Game
 {
     public partial class Game
     {
-        public void Run(IInput input, IDisplay display)
+        public async void Run(IInput input, IDisplay display)
         {
             SendMessage("Start gry");
             var (name, type) = GetPlayerData(input);
@@ -50,7 +50,10 @@ namespace CreatureFighter.Game
                 display.Display("--------------------");
                 display.Display(entity.OnRightClick());
 
+
                 i++;
+
+                await DelayMessage();
             }
             display.Display("====================");
             display.Display(specialTrick());

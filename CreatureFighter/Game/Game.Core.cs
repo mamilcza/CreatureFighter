@@ -16,5 +16,12 @@ namespace CreatureFighter.Game
         }
         //delegate
         public delegate string SpecialTrick();
+
+        public async Task DelayMessage()
+        {
+            await Task.Delay(500);
+            SendMessage("Po chwili...");
+        }
+
     }
 }
